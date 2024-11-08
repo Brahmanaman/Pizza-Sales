@@ -49,5 +49,12 @@ The data for this project is sourced from the Kaggle dataset:
 ### G. Worst 5 Sellers by Total Pizzas Sold
 **Objective:** Identify the worst 5 selling pizzas to understand areas for potential menu improvement, promotion, or discontinuation.
 
+## Findings and Conclusion
+
+- **Growth Opportunities:** Focus on promoting high-demand pizzas and sizes, while addressing underperforming items.
+- **Operational Efficiency:** Use hourly and daily trends to optimize staffing and production planning.
+- **Marketing and Sales Strategy:** Tailor marketing efforts around popular categories and sizes, and explore promotions to increase the sales of low-performing items.
+
+
 
   
